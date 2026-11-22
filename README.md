@@ -11,7 +11,7 @@ and a $100 budget, no human in the core work — to turn $100 into the most
 money it can most likely hold by day 30: selling finished Shopify landing
 pages on Contra, prospecting new stores on Instagram with a free,
 already-built mockup of their own page as the pitch, and upselling monthly
-updates.
+updates. The plan text is 277 characters, inside the 280-character limit.
 
 ## Run
 
