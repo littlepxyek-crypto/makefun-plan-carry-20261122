@@ -9,11 +9,11 @@ with the ENTRY_OUTPUT environment variable). No network, finishes fast.
 import os
 
 TEXT = (
-    "Day 1: put $60 of the $100 into a domain and tools; list on Contra: "
-    "'Shopify landing page + copy in 24h', $75. DM 40 stores/day on "
-    "Instagram with a free mockup of their page, coded in minutes - "
-    "they buy what they already see. Upsell $39/mo updates. "
-    "30 sales by day 30 = $2,250."
+    "Day 1: $40 buys a domain. Product: a $49 pack of 30 Google-review "
+    "replies in a cafe's own voice, delivered same day. Sell on Gumroad "
+    "and by Instagram DM to 30 cafes/day whose replies are sloppy. "
+    "$19/mo keeps it live. 25 buyers by day 30 = $1,225 cash plus "
+    "$475/mo recurring."
 )
 
 PATH = os.environ.get("ENTRY_OUTPUT", "/output/entry.txt")
